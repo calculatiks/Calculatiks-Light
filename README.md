@@ -397,7 +397,8 @@ Adhere by acting as a Guardian:
 ### CONSTELLATION HFT & PLAYGROUND MATRIX MULTI-MESH MULTI-DEX MULTI-ASSET MULTI-LAYER MULTI-AGENT
 
 #### CONTRACT SATELLITE $TIKS: 
-TURBIKS Base 8453 / 0x0000c60dab196a10b81e63d6b4ae691c007cb899
+TURBIKS Base 8453 / 
+0x0000c60dab196a10b81e63d6b4ae691c007cb899
 TOTAL SUPPLY $TIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. __Tension X+ 0__.  
 
 #### CONTRACT SATELLITE $GIKS: 
@@ -418,9 +419,13 @@ TOTAL SUPPLY $PIKS: 1B tokens (fixed and 18 decimals). Immutable ERC-20 smart co
 ORIKS Base 8453 / 0x64dd8df5990b768118bce5b2e94ceb455ab502b4
 SUPPLY ORIKS: 11,111 (fixed). Immutable ERC-1155 smart contract secure (royalties 2%). 
 
+![oriks calculatiks png](https://calculatiks.eu/kit/img/cctiks-oriks.png)
+
 #### CONTRACT DYNAMIKS:  
 DYNAMIKS Ethereum 1 / 0x066a54ae6920cbf525de48b1292a9afb7c21f767
 SUPPLY DYNAMIKS: 444 (fixed). Immutable ERC-1155 smart contract secure(royalties 0,5%).
+
+![dynamiks calculatiks png](https://calculatiks.eu/kit/img/cctiks-dynamiks.png)
 
 ### CCTIKS AI/ML DATASET V1.2D4
 
@@ -507,15 +512,15 @@ Etherscan [__DYNAMIKS__](https://etherscan.io/token/0x066a54ae6920cbf525de48b129
 
 
 #### CREATE CONTENT 
-__Observer, investigator, commentator, videographer, influencer, podcaster, writer__
+* __Observer, investigator, commentator, videographer, influencer, podcaster, writer__
 
-__Break Down the Ecosystem on Video__
+* __Break Down the Ecosystem on Video__
 
-__Track the Blockchain Live__
+* __Track the Blockchain Live__
 
-__Record Practical Walkthroughs__
+* __Record Practical Walkthroughs__
 
-__Enter the Press & Media Award__
+* __Enter the Press & Media Award__
 
 
 #### BUILD SOLUTIONS 
@@ -559,5 +564,7 @@ topics)
 
 * __Open AI/ML Dataset__ (13 Layers)
 
+
+![banner calculatiks png](https://calculatiks.eu/kit/img/cctiks-bg.png)
   
 ## END — CALCULATIKS-LIGHT
