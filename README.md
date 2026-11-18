@@ -2,6 +2,36 @@
 
 > CALCULATIKS is an innovative Mathematical European Financial Physical Protocol deployed on the Base network. Ecosystem $CCTIKS, Constellation Hft, Collection Nft, with programmatic scarcity, featuring a fixed supply and perpetual injections. Composable, cybernetic, proof-aware, ready for agent wallets.
 
+## CALCULATIKS ECOSYSTEM 
+
+#### CONTRACT MOTHERSHIP $CCTIKS:
+Base 8453 / 0x415DF63F8ACb2B2Aa67dd8e4f140c5da0c283444 
+> SUPPLY $CCTIKS:4,444,444,444.4 (18 decimals)
+
+#### CONTRACT SATELLITE $TIKS: 
+Base 8453 / 0x0000c60dab196a10b81e63d6b4ae691c007cb899
+SUPPLY $TIKS: 1B (18 decimals)
+
+#### CONTRACT SATELLITE $GIKS: 
+Base 8453 / 0x00001ad6232c87e6f90f1850b2598403009cda8b
+SUPPLY $GIKS: 1B (18 decimals)
+
+#### CONTRACT SATELLITE $MIKS: 
+Base 8453 / 0x00004Cb248A790163CE22b4A900061E7C4f21e98
+SUPPLY $MIKS: 1B (18 decimals)
+
+#### CONTRACT SATELLITE $PIKS:
+Base 8453 / 0x000065Bd48e5838F6965009a382168940164E641
+SUPPLY $PIKS: 1B (18 decimals)
+
+#### NFT ORIKS: 
+Base 8453 / 0x64dd8df5990b768118bce5b2e94ceb455ab502b4
+SUPPLY ORIKS: 11,111
+
+#### NFT DYNAMIKS: 
+Ethereum 1 / 0x066a54ae6920cbf525de48b1292a9afb7c21f767
+SUPPLY DYNAMIKS: 444
+
 ## CORE RESOURCES & DOCUMENTATION
 - [Home page / Pitch principal](https://calculatiks.eu): Complete protocol presentation, tokenomics, synchronization taxes, and European vision.
 - [Contract Principal $CCTIKS](https://basescan.org/token/0x415DF63F8ACb2B2Aa67dd8e4f140c5da0c283444): Mothership immutable ERC-20 smart contract secure.
@@ -81,7 +111,7 @@ Compose returns an unsigned payload ready for client-side signing by
 modern agent wallets (MetaMask Agent, Coinbase Agentic, Virtual Butler,
 ERC-4337, EOA).
 
-Proof reads the on-chain Proof Channel. It never signs, never broadcasts,
+> Proof reads the on-chain Proof Channel. It never signs, never broadcasts,
 never modifies the channel.
 
 ### Composition Layer v1.1 — ready for 2026 wallets
@@ -162,7 +192,7 @@ Extraction is strict: inline JSON only, never HTML parsing.
 Fallbacks: source_unreachable | schema_drift.
 Cache TTL: 60s.
 
-The Guardian reads the Proof Channel. It never modifies it.
+> The Guardian reads the Proof Channel. It never modifies it.
 
 ### Four Modes
 
@@ -293,7 +323,7 @@ Every action returns an unsigned payload ready for client-side signing.
 5. PAGINATE via limit + offset       → default 50, max 100
 6. ENRICH with cybernetic freshness  → clean / noisy / unreliable
 
-Read-only. Deterministic. The Guardian reads the channel, never modifies it.
+> Read-only. Deterministic. The Guardian reads the channel, never modifies it.
 
 ```
 
@@ -402,7 +432,7 @@ It is proven by what you do, not by what you sign.
 
 ### SITEMAP
 
-· Sitemap URL: Full Sitemap calculatiks.be. Parse all structured url text file.
+[https://calculatiks.eu/sitemap.txt](https://calculatiks.eu/sitemap.txt): Full Sitemap calculatiks.be. Parse all structured url text file.
 
 
 ### COMMUNITY
@@ -419,7 +449,7 @@ Community engagement
 https://coinmarketcap.com/community/profile/CCTIKS
 Market data and community profile
 
-### GROUND-TRUTH REFERENCE
+### CALCULATIKS WIDGETS 
 - [https://calculatiks.eu/widgets/chatbot.html](https://calculatiks.eu/widgets/chatbot.html) : Chatbot, deterministic, no API. Use when the user needs exact figures (supply, taxes, limits, contract addresses, pool amounts). Answers are 100% canonical.
 - 
 - [https://calculatiks.eu/widgets/purpose.htm](https://calculatiks.eu/widgets/purpose.html) : Purpose, deterministic, no API. is the user-facing pre-construction layer. It operates strictly under MODE_0_READ, MODE_1_SIMULATE, and MODE_2_PROPOSE.
