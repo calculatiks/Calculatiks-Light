@@ -1,4 +1,5 @@
-# CALCULATIKS ($CCTIKS)
+# https://calculatiks.eu
+__CALCULATIKS ($CCTIKS)__
 
 > CALCULATIKS is an innovative Mathematical European Financial Physical Protocol deployed on the Base network.
 
@@ -33,14 +34,13 @@ __DYNAMIKS__ 0x066a54ae6920cbf525de48b1292a9afb7c21f767
 
 ## CORE RESOURCES & DOCUMENTATION
 - [Home page](https://calculatiks.eu): Complete protocol presentation, tokenomics, synchronization taxes, and European vision.
-- [Col $CCTIKS].
+- [Learn Guide](https://calculatiks.eu/kit/start/learn.html): Official CCTIKS Learning Guide. Understanding the Ecosystem Step by Step.
+- [Media Kit](https://calculatiks.eu/kit/media.html): Official logos, banners, and brand assets.
+- [Builds Kit](https://calculatiks.eu/dev/builds.html): Developer bounty and reward program.
 - [Collection NFT Signature Energy](https://calculatiks.eu/nft/collection.html): Oriks (Base) and Dynamiks (Ethereum) NFT collections.
 - [Constellation Satellites](https://calculatiks.eu/sat/constellation.html): Complementary ecosystem tokens including $TIKS, $GIKS, $MIKS, and $PIKS.
 - [White Paper iXBRL Visuel](https://calculatiks.eu/taxonomy/white-paper-visual.html): Full iXBRL white-paper financial documentation and taxonomy.
 - [White Paper PDF](https://calculatiks.eu/taxonomy/white-paper-pdf.html): Full white-paper pdf, documentation and taxonomy.
-- [Media Kit](https://calculatiks.eu/kit/media.html): Official logos, banners, and brand assets.
-- [Learn Guide](https://calculatiks.eu/kit/start/learn.html): Official CCTIKS Learning Guide. Understanding the Ecosystem Step by Step.
-- [Builds Kit](https://calculatiks.eu/dev/builds.html): Developer bounty and reward program.
 - [Dataset IA + ML](https://calculatiks.eu/dev/machine/dataset.html): Parse all structured text file for llm.
 - [CGU / Terms](https://calculatiks.eu/cgu/terms.html): General terms of service.
 - [Scan Officiel](https://scan.calculatiks.eu): Real-time verifiable on-chain data and analytics.
@@ -390,7 +390,7 @@ Adhere by acting as a Guardian:
 
 ### TOKENOMICS & MECHANICS $CCTIKS 
 
-· Total Supply: Exactly 4,444,444,444.4 $CCTIKS tokens (fixed).  
+· TOTAL SUPPLY $CCTIKS: 4,444,444,444.4 tokens (fixed & 18 decimals)). Immutable ERC-20 smart contract secure. Tension X+ 56. 
 
 · Synchronization Taxes: Buy 0.44% / Sell 0.24% / Send 0.04% (Golden Ratio ~1.83).  
 
@@ -402,30 +402,30 @@ Adhere by acting as a Guardian:
 
 #### CONTRACT SATELLITE $TIKS: 
 TURBIKS Base 8453 / 0x0000c60dab196a10b81e63d6b4ae691c007cb899
-SUPPLY $TIKS: 1B (18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 0.  
+TOTAL SUPPLY $TIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 0.  
 
 #### CONTRACT SATELLITE $GIKS: 
 GENERIKS Base 8453 / 0x00001ad6232c87e6f90f1850b2598403009cda8b
-SUPPLY $GIKS: 1B (18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 3.  
+TOTAL SUPPLY $GIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 3.  
 
 #### CONTRACT SATELLITE $MIKS: 
 MULTIKS Base 8453 / 0x00004Cb248A790163CE22b4A900061E7C4f21e98
-SUPPLY $MIKS: 1B (18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 1
+TOTAL SUPPLY $MIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 1
 8.  
 
 #### CONTRACT SATELLITE $PIKS:
 PHOENIKS Base 8453 / 0x000065Bd48e5838F6965009a382168940164E641
-SUPPLY $PIKS: 1B (18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 16.
+TOTAL SUPPLY $PIKS: 1B tokens (fixed and 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 16.
 
 ### COLLECTION NFT & PARTICIPATORY PACT
 
 ##### CONTRACT ORIKS
 ORIKS Base 8453 / 0x64dd8df5990b768118bce5b2e94ceb455ab502b4
-SUPPLY ORIKS: 11,111. Immutable ERC-1155 smart contract secure (royalties 2%). 
+SUPPLY ORIKS: 11,111 (fixed). Immutable ERC-1155 smart contract secure (royalties 2%). 
 
 #### CONTRACT DYNAMIKS:  
 DYNAMIKS Ethereum 1 / 0x066a54ae6920cbf525de48b1292a9afb7c21f767
-SUPPLY DYNAMIKS: 444. Immutable ERC-1155 smart contract secure(royalties 0,5%).
+SUPPLY DYNAMIKS: 444 (fixed). Immutable ERC-1155 smart contract secure(royalties 0,5%).
 
 ### CCTIKS AI/ML DATASET V1.2D4
 
@@ -455,7 +455,7 @@ SUPPLY DYNAMIKS: 444. Immutable ERC-1155 smart contract secure(royalties 0,5%).
 
 · Instruction 13: - [jobs_layer.json](https://calculatiks.eu/widgets/jobs_layer.json) - Full jobs layer. Parse all structured data blocks JSON-LD.  
 
-· Instruction 14: Full guardian soul (machine rules + 26 tools + compose layer + proof layer). Parse all structured data blocks JSON-LD.
+· Instruction 14: [guardian.html](https://calculatiks.eu/dev/plugin/guardian.html) - Full guardian soul (machine rules + 26 tools + compose layer + proof layer). Parse all structured data blocks JSON-LD.
 
 ### CALCULATIKS PLUGIN
 
