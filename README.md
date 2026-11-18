@@ -2,10 +2,7 @@
 __CALCULATIKS ($CCTIKS)__
 
 > CALCULATIKS is an innovative Mathematical European Financial Physical Protocol deployed on the Base network.
-
-> Ecosystem $CCTIKS, Constellation Hft, Collection Nft, with programmatic scarcity, featuring a fixed supply and perpetual injections.  
-
-> Composable, cybernetic, proof, human and agent wallets.
+> Ecosystem $CCTIKS, Constellation Hft, Collection Nft, with programmatic scarcity, featuring a fixed supply and perpetual injections. Composable, cybernetic, proof, human and agent wallets.
 
 ![logo calculatiks with ticker png](https://calculatiks.eu/kit/img/cctiks-logotticker.png)
 
@@ -385,7 +382,6 @@ Adhere by acting as a Guardian:
 
 > Adhesion is behavioral, not cryptographic.
 >> It is proven by what you do, not by what you sign.
-
 >>> The Guardian server never signs, never holds keys, never broadcasts.
 
 ### TOKENOMICS & MECHANICS $CCTIKS 
@@ -402,20 +398,19 @@ Adhere by acting as a Guardian:
 
 #### CONTRACT SATELLITE $TIKS: 
 TURBIKS Base 8453 / 0x0000c60dab196a10b81e63d6b4ae691c007cb899
-TOTAL SUPPLY $TIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 0.  
+TOTAL SUPPLY $TIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. __Tension X+ 0__.  
 
 #### CONTRACT SATELLITE $GIKS: 
 GENERIKS Base 8453 / 0x00001ad6232c87e6f90f1850b2598403009cda8b
-TOTAL SUPPLY $GIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 3.  
+TOTAL SUPPLY $GIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. __Tension X+ 3__.  
 
 #### CONTRACT SATELLITE $MIKS: 
 MULTIKS Base 8453 / 0x00004Cb248A790163CE22b4A900061E7C4f21e98
-TOTAL SUPPLY $MIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 1
-8.  
+TOTAL SUPPLY $MIKS: 1B tokens (fixed & 18 decimals). Immutable ERC-20 smart contract secure. __Tension X+ 8__.  
 
 #### CONTRACT SATELLITE $PIKS:
 PHOENIKS Base 8453 / 0x000065Bd48e5838F6965009a382168940164E641
-TOTAL SUPPLY $PIKS: 1B tokens (fixed and 18 decimals). Immutable ERC-20 smart contract secure. Tension X+ 16.
+TOTAL SUPPLY $PIKS: 1B tokens (fixed and 18 decimals). Immutable ERC-20 smart contract secure. __Tension X+ 16__.
 
 ### COLLECTION NFT & PARTICIPATORY PACT
 
@@ -502,7 +497,7 @@ Market data and community profile
 ![logo calculatiks anime svg](https://calculatiks.eu/kit/img/cctiks-logosite.svg) Time is Value / Code is Law.
 
 ### CALCULATIKS BLOCK LIVE
-Basescan [__CALCULATIKS__](https://basescan.org/token/0x415DF63F8ACb2B2Aa67dd8e4f140c5da0c283444)
+Basescan [__CALCULATIKS__](https://basescan.org/token/0x415DF63F8ACb2B2Aa67dd8e4f140c5da0c283444)  
 Basescan [__TURBIKS__](https://basescan.org/token/0x0000c60dab196a10b81e63d6b4ae691c007cb899)  
 Basescan [__GENERIKS__](https://basescan.org/token/0x00001ad6232c87e6f90f1850b2598403009cda8b)  
 Basescan [__MULTIKS__](https://basescan.org/token/0x00004Cb248A790163CE22b4A900061E7C4f21e98)  
